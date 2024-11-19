@@ -1,0 +1,39 @@
+## Visualization 1: Distribution of Tool Wear
+![Histogram of Tool Wear](tool_wear_visualizations/histogram_tool_wear.png)
+
+This histogram showcases the distribution of tool wear values observed across machining operations.
+
+---
+
+## Visualization 2: Tool Wear vs. Feed Rate
+![Tool Wear vs. Feed Rate](tool_wear_visualizations/tool_wear_vs_feed_rate.png)
+
+This scatter plot illustrates the relationship between feed rate and tool wear. Observations reveal trends that can inform parameter optimization.
+
+---
+
+## Visualization 3: Tool Wear vs. Spindle Speed
+![Tool Wear vs. Spindle Speed](tool_wear_visualizations/tool_wear_vs_spindle_speed.png)
+
+This scatter plot demonstrates how spindle speed affects tool wear, providing insights into operational settings.
+
+---
+
+## Visualization 4: Tool Wear vs. Depth of Cut
+![Tool Wear vs. Depth of Cut](tool_wear_visualizations/tool_wear_vs_depth_of_cut.png)
+
+This scatter plot shows the correlation between the depth of cut and tool wear, highlighting critical thresholds.
+
+---
+
+## Visualization 5: Cumulative Tool Wear Over Operations
+![Cumulative Tool Wear Over Operations](tool_wear_visualizations/cumulative_tool_wear.png)
+
+The line plot shows cumulative tool wear over multiple operations, indicating wear trends and the importance of monitoring.
+
+---
+
+## Visualization 6: Tool Wear Over Operations
+![Tool Wear Over Operations](tool_wear_visualizations/tool_wear_over_operations.png)
+
+This plot tracks tool wear across operations and highlights the maintenance threshold to prevent excessive wear.
